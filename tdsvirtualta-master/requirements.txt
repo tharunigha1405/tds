@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+beautifulsoup4
+markdownify
+playwright
+requests
+sentence-transformers
+torch
+scipy
+gunicorn
+transformers
